@@ -1,0 +1,14 @@
+table,
+td {
+	border: 1px solid white;
+	color: skyblue;
+}
+
+.table {
+	height: 10vh;
+}
+
+.td {
+	width: 200px;
+	text-align: centers;
+}
